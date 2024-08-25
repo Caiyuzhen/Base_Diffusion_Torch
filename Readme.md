@@ -18,3 +18,15 @@ conda activate torch_gpu_env
 
 # 解释器版本
 ```python 3.9```
+
+# 运行环境
+`diffusers == 0.121`
+`datasets == 0.290`
+`python==3.9`
+`pytorch==1.12.1+cu113`
+`transformers==4.26.1`
+`datasets==2.9.0`
+`diffusers==0.12.1`
+
+# 数据格式
+`parquet`
